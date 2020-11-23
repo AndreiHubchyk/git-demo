@@ -9,5 +9,3 @@ new content
 lines
 -------------
 
-lines
-new couplet
